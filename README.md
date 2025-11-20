@@ -5,6 +5,7 @@ Bem-vindo(a) ao meu mundo!
 
 > FullStack jr com foco em .Net/Blazor;
 -FullStack jr focused on .Net/Blazor-
+> Entity framework/XPO;
 > C#/HTML/Javascript/SQL;
 > Exercícios/projetos/testes;
 -Exercises/projects/tests-
