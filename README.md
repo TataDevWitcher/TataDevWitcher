@@ -3,9 +3,9 @@
 Bem-vindo(a) ao meu mundo!
 -Welcome to my world!-
 
-> FullStack jr com foco em .Net;
--FullStack jr focused on .Net-
-> Blazor C#/HTML/Javascript/SQL;
+> FullStack jr com foco em .Net/Blazor;
+-FullStack jr focused on .Net/Blazor-
+> C#/HTML/Javascript/SQL;
 > Exercícios/projetos/testes;
 -Exercises/projects/tests-
 ```
