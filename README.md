@@ -1,5 +1,12 @@
 ### Hi there 👋
+Bem-vindo(a) ao meu mundo!
+-Welcome to my world!-
 
+> FullStack jr com foco em .Net;
+-FullStack jr focused on .Net-
+> Blazor C#/HTML/Javascript/SQL;
+> Exercícios/projetos/testes/;
+-Exercises/projects/tests-
 <!--
 **TataDevWitcher/TataDevWitcher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
