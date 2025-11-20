@@ -6,7 +6,7 @@ Bem-vindo(a) ao meu mundo!
 > FullStack jr com foco em .Net;
 -FullStack jr focused on .Net-
 > Blazor C#/HTML/Javascript/SQL;
-> Exercícios/projetos/testes/;
+> Exercícios/projetos/testes;
 -Exercises/projects/tests-
 ```
 <!--
